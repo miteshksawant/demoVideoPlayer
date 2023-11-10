@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "472895371008",
+    "project_id": "video-pla-ee66b",
+    "storage_bucket": "video-pla-ee66b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472895371008:android:3be34a55fd39c30f0da5e5",
+        "android_client_info": {
+          "package_name": "com.example.video_player_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdp8D3_cSQ9QOsZOSgQUfMw5VJvNs1e2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
